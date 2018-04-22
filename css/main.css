@@ -54,7 +54,7 @@ body {
 /*SEE EXCERCISE D ON html*/
 
 
-/*Exercise E*/
+/*Exercise E & F*/
 /*#box_1 {
 	position: absolute;
 	top: 0;
@@ -88,3 +88,46 @@ body {
 	background: #ebde52;
 }
 */
+
+/*EXERCISE F*/
+#box_1 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 200px;
+	height: 200px;
+	background: #ee3e64;
+}
+#box_2 {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 200px;
+	height: 200px;
+	background: #44accf;
+}
+#box_3 {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 200px;
+	height: 200px;
+	background: #b7d84b;
+}
+#box_4 {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 200px;
+	height: 200px;
+	background: #ebde52;
+}
+
+.little_box {
+  background-color: orange;
+  top: 70px;
+  right: 80px;
+  position: absolute;
+  height: 50px;
+  width: 50px;
+}
